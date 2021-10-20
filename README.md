@@ -1,4 +1,4 @@
-# ZRB_gcam
+# ZambeziWatercourse_GCAM
 
 This repository contains the code and results used to generate Figures 2-3-4 of the following paper:
 ```
